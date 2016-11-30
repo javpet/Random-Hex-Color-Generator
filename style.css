@@ -1,0 +1,25 @@
+body {
+   transition: all .5s ease;
+  }
+
+  #hex {
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 4em;
+    font-family: "proxima-nova";
+    top: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5em;
+  }
+
+  p {
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.5em;
+    font-family: "proxima-nova";
+    margin: 0 auto;
+    margin-top: 1.5em;
+  }
